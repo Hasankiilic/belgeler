@@ -1,0 +1,11 @@
+cd = dizini deðiþtiriyor
+git init = projeyi git yapabilmek için
+ls -a = Gizli dosyalarý gösterir
+git add . = Dizinin içinde ki tüm dosyalarý git repository'e ekler
+git commit -m'' '' = Ara geçiþ noktasýndan Git deposuna ekler
+git status = Yapýlan deðiþiklikleri gösterir
+git diff = dosyaya ekleme yapýldýðýnda
+git remote add TakmaAd URL
+git push -u TakmaAd master = push etme
+git push origin master
+deðiþiklik
