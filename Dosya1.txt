@@ -8,4 +8,3 @@ git diff = dosyaya ekleme yapýldýðýnda
 git remote add TakmaAd URL
 git push -u TakmaAd master = push etme
 git push origin master
-deðiþiklik
